@@ -1,7 +1,7 @@
 # Bootstrap-rtl
 Bootstrap 4 RTL version
 
-Only RTL
+# Only RTL
 
 LTR to RTL
 
